@@ -1,5 +1,3 @@
-Here is a sample `README.md` file for your app with GitHub-style badges included:
-
 # Inventory Management System
 
 [![PHP](https://img.shields.io/badge/PHP-%3E%3D%207.4-blue)](https://www.php.net/)
@@ -27,7 +25,7 @@ This app is a Filament-based admin panel for managing various resources such as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kyle-Myre/Inventory-Management-System.git
+   git clone https://github.com/AmbitiousFlowDev/Inventory-Management-System.git
    cd {repo-name}
    ```
 
